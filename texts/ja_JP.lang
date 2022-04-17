@@ -34,8 +34,12 @@ howtoplay.rule.text.17=ブロック等を透過するテクスチャ
 howtoplay.rule.text.18=プレイヤーのヒットボックスを表示するテクスチャ
 howtoplay.rule.text.19=そのほか運営が不適切だと判断したテクスチャ
 
-howtoplay.movie=動画の投稿をしたい人へ
-howtoplay.movie.title=遊び方 > 動画投稿
+howtoplay.movie=動画の投稿・配信をしたい人へ
+howtoplay.movie.title=遊び方 > 動画投稿・配信
+howtoplay.movie.header.1=動画投稿・配信許可
+howtoplay.movie.text.1=動画投稿には動画投稿許可が必要です。動画投稿許可の申請は @kirbymicra1204 (かーびぃ)  へのDiscordのDMでお願いします。
+howtoplay.movie.text.2=詳しくはSplaturnのDiscordサーバーの #[必読]参加方法・ルール をご確認ください。
+howtoplay.movie.text.3=動画投稿許可が承諾された方には灰色の★が付きます。 この灰色の★が付いていない状態では動画を投稿することは出来ません。
 
 howtoplay.weapon.brush=フデ
 howtoplay.weapon.brush.title=遊び方 > ブキ > フデ
