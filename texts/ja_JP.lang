@@ -34,6 +34,15 @@ howtoplay.rule.text.17=ブロック等を透過するテクスチャ
 howtoplay.rule.text.18=プレイヤーのヒットボックスを表示するテクスチャ
 howtoplay.rule.text.19=そのほか運営が不適切だと判断したテクスチャ
 
+howtoplay.basicaction=基本操作
+howtoplay.basicaction.title=遊び方 > 基本操作
+howtoplay.basicaction.header.1=塗り方
+howtoplay.basicaction.text.1=フデ・ローラーブキでは塗り方はタッチ操作だと長押し・短押し、キーボード操作では右クリック左クリックで2種類の塗りが使えます。
+howtoplay.basicaction.text.2=そのほかの塗り方・特徴は「各ブキでの塗り方」で確認できます。
+howtoplay.basicaction.header.2=インクの回復
+howtoplay.basicaction.text.3=何も持たずに自分のチームのインクの上に乗るとインクが回復できます(イカモード)。
+howtoplay.basicaction.text.4=この状態だとほかの人から見れなくなります。
+
 howtoplay.movie=動画の投稿・配信をしたい人へ
 howtoplay.movie.title=遊び方 > 動画投稿・配信
 howtoplay.movie.header.1=動画投稿・配信許可
@@ -99,3 +108,8 @@ howtoplay.weapon.charger.text.1=チャージャーは縦方向に細長く塗る
 howtoplay.weapon.charger.text.2=ただし攻撃判定は頭にしかありません。
 howtoplay.weapon.blaster.header.1=発射
 howtoplay.weapon.charger.text.3=弓の引きでチャージ、離すと発射されます。引きの時間でチャージの量が変わります。
+
+howtoplay.battlerule.regular=レギュラーマッチ(GS1)
+howtoplay.battlerule.regular.title=遊び方 > レギュラーマッチ(GS1)
+howtoplay.battlerule.regular.header.1=ルール
+howtoplay.battlerule.regular.text.1=
