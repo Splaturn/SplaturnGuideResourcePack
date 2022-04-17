@@ -1,0 +1,56 @@
+resourcepack.splaturn3guide.name=Splaturn3ガイドリソースパック
+
+
+splaturn.weapon.splash=振り撒き
+splaturn.weapon.roll=塗り進み
+
+howtoplay.category.basics=基本情報
+howtoplay.category.weapon=各ブキでの塗り方
+howtoplay.category.battlerule=バトルルール
+
+howtoplay.weapon.brush=フデ
+howtoplay.weapon.brush.title=遊び方 > ブキ > フデ
+howtoplay.weapon.brush.header.1=振り撒き	# splash(右クリ)のこと
+howtoplay.weapon.brush.text.1=フデ系ブキで唯一の攻撃方法です。インク消費量は多いですが広範囲を塗ることができます。ブキによって攻撃間隔に差があります。
+howtoplay.weapon.brush.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
+howtoplay.weapon.brush.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.brush.header.2=塗り進み	# roll(左クリ)のこと
+howtoplay.weapon.brush.text.3=攻撃ができない塗り方です。塗り範囲が狭い代わりにインク消費量が少ないです。
+howtoplay.weapon.brush.text.4.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.attack: を長押し
+howtoplay.weapon.brush.text.4.touch=塗り方: ブキを持った状態でブロックに向かって長押し
+
+howtoplay.weapon.roller=ローラー
+howtoplay.weapon.roller.title=遊び方 > ブキ > ローラー
+howtoplay.weapon.roller.header.1=振り撒き	# splash(右クリ)のこと
+howtoplay.weapon.roller.text.1=インク消費量は多いですが広範囲を塗ることができます。ブキによって攻撃間隔に差があります。
+howtoplay.weapon.roller.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.roller.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
+howtoplay.weapon.roller.header.2=塗り進み	# roll(左クリ)のこと
+howtoplay.weapon.roller.text.3=塗り範囲は振り撒きに比べると狭いです。近距離の攻撃に利用できます。
+howtoplay.weapon.roller.text.4.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.attack: を長押し
+howtoplay.weapon.roller.text.4.touch=塗り方: ブキを持った状態でブロックに向かって長押し
+
+howtoplay.weapon.shooter=シューター
+howtoplay.weapon.shooter.title=遊び方 > ブキ > シューター
+howtoplay.weapon.shooter.text.1=シューターはチャージなしでインクを発射できるブキです。ブキによってブレ・射撃速度が異なります。
+howtoplay.weapon.shooter.header.1=射撃
+howtoplay.weapon.shooter.text.2=塗り方: ブキを持つだけで前に向かってインクが発射されます。
+
+howtoplay.weapon.spinner=スピナー
+howtoplay.weapon.spinner.title=遊び方 > ブキ > スピナー
+howtoplay.weapon.spinner.text.1=スピナーはインクをチャージした後に連続で発射するブキです。
+howtoplay.weapon.spinner.header.1=チャージ
+howtoplay.weapon.spinner.text.2.touch=ブキを持ってタップ(長押し)をするとチャージを開始できます。
+howtoplay.weapon.spinner.text.2.noTouch=ブキを持って :_input_key.use: でチャージを開始できます。
+howtoplay.weapon.spinner.header.2=発射
+howtoplay.weapon.spinner.text.2.touch=塗り方: チャージが完了すると発射できます。チャージ中にタップ(長押し)をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
+howtoplay.weapon.spinner.text.2.noTouch=塗り方: チャージが完了すると発射できます。チャージ中に :_input_key.use: をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
+
+howtoplay.weapon.slosher=スロッシャー
+howtoplay.weapon.slosher.title=遊び方 > ブキ > スロッシャー
+howtoplay.weapon.slosher.text.1=スロッシャーはインクを前方向にまくことができるブキです。
+howtoplay.weapon.slosher.header.1=塗り
+howtoplay.weapon.roller.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.roller.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
+
+howtoplay.weapon.blaster=ブラスター
