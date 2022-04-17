@@ -92,8 +92,8 @@ howtoplay.weapon.slosher=スロッシャー
 howtoplay.weapon.slosher.title=遊び方 > ブキ > スロッシャー
 howtoplay.weapon.slosher.text.1=スロッシャーはインクを前方にまくことができるブキです。
 howtoplay.weapon.slosher.header.1=塗り
-howtoplay.weapon.roller.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
-howtoplay.weapon.roller.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
+howtoplay.weapon.slosher.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.slosher.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
 
 howtoplay.weapon.blaster=ブラスター
 howtoplay.weapon.blaster.title=遊び方 > ブキ > ブラスタ―
@@ -106,7 +106,7 @@ howtoplay.weapon.charger=チャージャー
 howtoplay.weapon.charger.title=遊び方 > ブキ > チャージャー
 howtoplay.weapon.charger.text.1=チャージャーは縦方向に細長く塗ることができるブキです。一発の攻撃力が高いため、チャージの量にもよりますが当たれば一撃で倒すこともできます(リッター系をのぞく)。
 howtoplay.weapon.charger.text.2=ただし攻撃判定は頭にしかありません。
-howtoplay.weapon.blaster.header.1=発射
+howtoplay.weapon.charger.header.1=発射
 howtoplay.weapon.charger.text.3=弓の引きでチャージ、離すと発射されます。引きの時間でチャージの量が変わります。
 
 howtoplay.battlerule.regular=レギュラーマッチ(GS1)
