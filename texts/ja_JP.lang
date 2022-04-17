@@ -50,6 +50,20 @@ howtoplay.movie.text.1=動画投稿には動画投稿許可が必要です。動
 howtoplay.movie.text.2=詳しくはSplaturnのDiscordサーバーの #[必読]参加方法・ルール をご確認ください。
 howtoplay.movie.text.3=動画投稿許可が承諾された方には灰色の★が付きます。 この灰色の★が付いていない状態では動画を投稿することは出来ません。
 
+howtoplay.battlerule.regular=レギュラーマッチ(GS1)
+howtoplay.battlerule.regular.title=遊び方 > レギュラーマッチ(GS1)
+howtoplay.battlerule.regular.header.1=ルール
+howtoplay.battlerule.regular.text.1=より塗りを広げた方のチームが勝ち！相手を倒しながらも陣地を広げるでゲソ。
+howtoplay.battlerule.regular.text.2=サブウェポンを巧みに使って広範囲を塗って勝利を目指せ！
+
+howtoplay.battlerule.ranked.splatzone=ガチマッチ(GS1)
+howtoplay.battlerule.ranked.splatzone.title=遊び方 > ガチマッチ(GS1)
+howtoplay.battlerule.ranked.splatzone.header.1=ルール
+howtoplay.battlerule.ranked.splatzone.text.1=エリアを確保してカウントをより進めたチームが勝ち！エリアを長時間維持してカウントを多く進めるでゲソ。
+howtoplay.battlerule.ranked.splatzone.text.2=カウントストップされるとペナルティーが与えられる。負けているチームもエリアを奪って逆転を目指せ！
+howtoplay.battlerule.ranked.splatzone.text.3=レギュラーマッチよりもレベルの高い戦いが繰り広げられる。レギュラーマッチでウデを磨いてから心して臨むべし。
+
+
 howtoplay.weapon.brush=フデ
 howtoplay.weapon.brush.title=遊び方 > ブキ > フデ
 howtoplay.weapon.brush.header.1=振り撒き	# splash(右クリ)のこと
@@ -108,16 +122,3 @@ howtoplay.weapon.charger.text.1=チャージャーは縦方向に細長く塗る
 howtoplay.weapon.charger.text.2=ただし攻撃判定は頭にしかありません。
 howtoplay.weapon.charger.header.1=発射
 howtoplay.weapon.charger.text.3=弓の引きでチャージ、離すと発射されます。引きの時間でチャージの量が変わります。
-
-howtoplay.battlerule.regular=レギュラーマッチ(GS1)
-howtoplay.battlerule.regular.title=遊び方 > レギュラーマッチ(GS1)
-howtoplay.battlerule.regular.header.1=ルール
-howtoplay.battlerule.regular.text.1=より塗りを広げた方のチームが勝ち！相手を倒しながらも陣地を広げるでゲソ。
-howtoplay.battlerule.regular.text.2=サブウェポンを巧みに使って広範囲を塗って勝利を目指せ！
-
-howtoplay.battlerule.ranked.splatzone=ガチマッチ(GS1)
-howtoplay.battlerule.ranked.splatzone.title=遊び方 > ガチマッチ(GS1)
-howtoplay.battlerule.ranked.splatzone.header.1=ルール
-howtoplay.battlerule.ranked.splatzone.text.1=エリアを確保してカウントをより進めたチームが勝ち！エリアを長時間維持してカウントを多く進めるでゲソ。
-howtoplay.battlerule.ranked.splatzone.text.2=カウントストップされるとペナルティーが与えられる。負けているチームもエリアを奪って逆転を目指せ！
-howtoplay.battlerule.ranked.splatzone.text.3=レギュラーマッチよりもレベルの高い戦いが繰り広げられる。レギュラーマッチでウデを磨いてから心して臨むべし。
