@@ -39,6 +39,8 @@
             { "weapon_shooter_button@how_to_play.weapons_shooter_button": { "$toggle_group_forced_index": 4 } },
             { "weapon_spinner_button@how_to_play.weapons_spinner_button": { "$toggle_group_forced_index": 5 } },
             { "weapon_slosher_button@how_to_play.weapons_slosher_button": { "$toggle_group_forced_index": 6 } },
+            { "weapon_blaster_button@how_to_play.weapons_blaster_button": { "$toggle_group_forced_index": 7 } },
+            { "weapon_charger_button@how_to_play.weapons_charger_button": { "$toggle_group_forced_index": 8 } },
             {
               "padding_1@how_to_play_common.padding": {
                 "size": [ 0, 10 ]
@@ -69,6 +71,8 @@
             { "weapons_shooter_section@how_to_play.weapons_shooter_section": {} },
             { "weapons_spinner_section@how_to_play.weapons_spinner_section": {} },
             { "weapons_slosher_section@how_to_play.weapons_slosher_section": {} },
+            { "weapons_blaster_section@how_to_play.weapons_blaster_section": {} },
+            { "weapons_charger_section@how_to_play.weapons_charger_section": {} },
             {
               "section_contents_footer@how_to_play_common.section_contents_footer": {}
             }
@@ -287,6 +291,76 @@
       {
         "paragraph_2_no_touch@how_to_play_common.paragraph_not_touch": {
           "$text": "howtoplay.weapon.slosher.text.2.notTouch"
+        }
+      }
+    ]
+  },
+  "weapons_blaster_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "weapon.blaster"
+  },
+  "weapons_blaster_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "weapon.blaster_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      {
+        "paragraph_1@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.weapon.blaster.text.1"
+        }
+      },
+      {
+        "paragraph_2@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.weapon.blaster.text.2"
+        }
+      },
+      {
+        "header_1@how_to_play_common.header": {
+          "$text": "howtoplay.weapon.blaster.header.1"
+        }
+      },
+      {
+        "paragraph_3@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.weapon.blaster.text.3"
+        }
+      }
+    ]
+  },
+  "weapons_charger_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "weapon.charger"
+  },
+  "weapons_charger_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "weapon.charger_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      {
+        "paragraph_1@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.weapon.charger.text.1"
+        }
+      },
+      {
+        "paragraph_2@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.weapon.charger.text.2"
+        }
+      },
+      {
+        "header_1@how_to_play_common.header": {
+          "$text": "howtoplay.weapon.charger.header.1"
+        }
+      },
+      {
+        "paragraph_3@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.weapon.charger.text.3"
         }
       }
     ]
