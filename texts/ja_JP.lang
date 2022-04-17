@@ -5,8 +5,8 @@ splaturn.weapon.splash=振り撒き
 splaturn.weapon.roll=塗り進み
 
 howtoplay.category.splaturn=基本情報
-howtoplay.category.weapon=各ブキでの塗り方
 howtoplay.category.battlerule=バトルルール
+howtoplay.category.weapon=各ブキでの塗り方
 
 
 howtoplay.rule=ルール
@@ -112,4 +112,12 @@ howtoplay.weapon.charger.text.3=弓の引きでチャージ、離すと発射さ
 howtoplay.battlerule.regular=レギュラーマッチ(GS1)
 howtoplay.battlerule.regular.title=遊び方 > レギュラーマッチ(GS1)
 howtoplay.battlerule.regular.header.1=ルール
-howtoplay.battlerule.regular.text.1=
+howtoplay.battlerule.regular.text.1=より塗りを広げた方のチームが勝ち！相手を倒しながらも陣地を広げるでゲソ。
+howtoplay.battlerule.regular.text.2=サブウェポンを巧みに使って広範囲を塗って勝利を目指せ！
+
+howtoplay.battlerule.ranked.splatzone=ガチマッチ(GS1)
+howtoplay.battlerule.ranked.splatzone.title=遊び方 > ガチマッチ(GS1)
+howtoplay.battlerule.ranked.splatzone.header.1=ルール
+howtoplay.battlerule.ranked.splatzone.text.1=エリアを確保してカウントをより進めたチームが勝ち！エリアを長時間維持してカウントを多く進めるでゲソ。
+howtoplay.battlerule.ranked.splatzone.text.2=カウントストップされるとペナルティーが与えられる。負けているチームもエリアを奪って逆転を目指せ！
+howtoplay.battlerule.ranked.splatzone.text.3=レギュラーマッチよりもレベルの高い戦いが繰り広げられる。レギュラーマッチでウデを磨いてから心して臨むべし。
