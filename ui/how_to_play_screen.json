@@ -302,13 +302,13 @@
   },
 
   "regular_button@how_to_play_common.section_toggle_button": {
-    "$section_topic": "regular"
+    "$section_topic": "battlerule.regular"
   },
   "regular_section@how_to_play_common.main_sections": {
     "bindings": [
       {
         "binding_type": "view",
-        "source_control_name": "regular_button_toggle",
+        "source_control_name": "battlerule.regular_button_toggle",
         "source_property_name": "#toggle_state",
         "target_property_name": "#visible"
       }
@@ -333,13 +333,13 @@
   },
 
   "splatzone_button@how_to_play_common.section_toggle_button": {
-    "$section_topic": "splatzone"
+    "$section_topic": "battlerule.ranked.splatzone"
   },
   "splatzone_section@how_to_play_common.main_sections": {
     "bindings": [
       {
         "binding_type": "view",
-        "source_control_name": "splatzone_button_toggle",
+        "source_control_name": "battlerule.ranked.splatzone_button_toggle",
         "source_property_name": "#toggle_state",
         "target_property_name": "#visible"
       }
@@ -347,22 +347,22 @@
     "controls": [
       {
         "header_1@how_to_play_common.header": {
-          "$text": "howtoplay.battlerule.splatzone.header.1"
+          "$text": "howtoplay.battlerule.ranked.splatzone.header.1"
         }
       },
       {
         "paragraph_1@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.battlerule.splatzone.text.1"
+          "$text": "howtoplay.battlerule.ranked.splatzone.text.1"
         }
       },
       {
         "paragraph_2@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.battlerule.splatzone.text.2"
+          "$text": "howtoplay.battlerule.ranked.splatzone.text.2"
         }
       },
       {
         "paragraph_3@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.battlerule.splatzone.text.3"
+          "$text": "howtoplay.battlerule.ranked.splatzone.text.3"
         }
       }
     ]
