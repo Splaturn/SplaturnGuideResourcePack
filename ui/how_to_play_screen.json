@@ -423,6 +423,21 @@
         "paragraph_2_no_touch@how_to_play_common.paragraph_not_touch": {
           "$text": "howtoplay.weapon.spinner.text.2.notTouch"
         }
+      },
+      {
+        "header_2@how_to_play_common.header": {
+          "$text": "howtoplay.weapon.spinner.header.2"
+        }
+      },
+      {
+        "paragraph_3_touch@how_to_play_common.paragraph_touch": {
+          "$text": "howtoplay.weapon.spinner.text.3.touch"
+        }
+      },
+      {
+        "paragraph_3_no_touch@how_to_play_common.paragraph_not_touch": {
+          "$text": "howtoplay.weapon.spinner.text.3.notTouch"
+        }
       }
     ]
   },
