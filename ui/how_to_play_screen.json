@@ -32,7 +32,9 @@
                 "size": [ 0, 6 ]
               }
             },
-            { "basics_category@how_to_play_common.topic_category": { "$category": "basics" } },
+            { "basics_category@how_to_play_common.topic_category": { "$category": "splaturn" } },
+            { "rule_button@how_to_play.rule_button": { "$toggle_group_forced_index": 0 } },
+            { "movie_button@how_to_play.movie_button": { "$toggle_group_forced_index": 1 } },
             { "weapons_category@how_to_play_common.topic_category": { "$category": "weapon" } },
             { "weapon_brush_button@how_to_play.weapons_brush_button": { "$toggle_group_forced_index": 2 } },
             { "weapon_roller_button@how_to_play.weapons_roller_button": { "$toggle_group_forced_index": 3 } },
@@ -66,6 +68,8 @@
             {
               "section_contents_header@how_to_play_common.section_contents_header": {}
             },
+            { "rule_section@how_to_play.rule_section": {} },
+            { "movie_section@how_to_play.movie_section": {} },
             { "weapons_brush_section@how_to_play.weapons_brush_section": {} },
             { "weapons_roller_section@how_to_play.weapons_roller_section": {} },
             { "weapons_shooter_section@how_to_play.weapons_shooter_section": {} },
@@ -77,6 +81,258 @@
               "section_contents_footer@how_to_play_common.section_contents_footer": {}
             }
           ]
+        }
+      }
+    ]
+  },
+
+  "rule_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "rule"
+  },
+  "rule_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "rule_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      {
+        "header_1@how_to_play_common.header": {
+          "$text": "howtoplay.rule.header.1"
+        }
+      },
+      {
+        "paragraph_1@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.1"
+        }
+      },
+      {
+        "paragraph_2@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.2"
+        }
+      },
+      {
+        "paragraph_3@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.3"
+        }
+      },
+      {
+        "paragraph_4@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.4"
+        }
+      },
+      {
+        "paragraph_5@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.5"
+        }
+      },
+      {
+        "paragraph_6@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.6"
+        }
+      },
+      {
+        "paragraph_7@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.7"
+        }
+      },
+      {
+        "paragraph_8@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.8"
+        }
+      },
+      {
+        "paragraph_9@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.9"
+        }
+      },
+      {
+        "paragraph_10@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.10"
+        }
+      },
+      {
+        "paragraph_11@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.11"
+        }
+      },
+      {
+        "paragraph_12@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.12"
+        }
+      },
+      {
+        "header_2@how_to_play_common.header": {
+          "$text": "howtoplay.rule.header.2"
+        }
+      },
+      {
+        "paragraph_13@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.13"
+        }
+      },
+      {
+        "paragraph_14@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.14"
+        }
+      },
+      {
+        "paragraph_15@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.15"
+        }
+      },
+      {
+        "paragraph_16@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.16"
+        }
+      },
+      {
+        "header_3@how_to_play_common.header": {
+          "$text": "howtoplay.rule.header.3"
+        }
+      },
+      {
+        "paragraph_17@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.17"
+        }
+      },
+      {
+        "paragraph_18@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.18"
+        }
+      },
+      {
+        "paragraph_19@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.19"
+        }
+      }
+    ]
+  },
+
+  "movie_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "movie"
+  },
+  "movie_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "movie_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      {
+        "header_1@how_to_play_common.header": {
+          "$text": "howtoplay.rule.header.1"
+        }
+      },
+      {
+        "paragraph_1@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.1"
+        }
+      },
+      {
+        "paragraph_2@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.2"
+        }
+      },
+      {
+        "paragraph_3@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.3"
+        }
+      },
+      {
+        "paragraph_4@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.4"
+        }
+      },
+      {
+        "paragraph_5@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.5"
+        }
+      },
+      {
+        "paragraph_6@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.6"
+        }
+      },
+      {
+        "paragraph_7@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.7"
+        }
+      },
+      {
+        "paragraph_8@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.8"
+        }
+      },
+      {
+        "paragraph_9@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.9"
+        }
+      },
+      {
+        "paragraph_10@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.10"
+        }
+      },
+      {
+        "paragraph_11@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.11"
+        }
+      },
+      {
+        "paragraph_12@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.12"
+        }
+      },
+      {
+        "header_2@how_to_play_common.header": {
+          "$text": "howtoplay.rule.header.2"
+        }
+      },
+      {
+        "paragraph_13@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.13"
+        }
+      },
+      {
+        "paragraph_14@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.14"
+        }
+      },
+      {
+        "paragraph_15@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.15"
+        }
+      },
+      {
+        "paragraph_16@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.16"
+        }
+      },
+      {
+        "header_3@how_to_play_common.header": {
+          "$text": "howtoplay.rule.header.3"
+        }
+      },
+      {
+        "paragraph_17@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.17"
+        }
+      },
+      {
+        "paragraph_18@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.18"
+        }
+      },
+      {
+        "paragraph_19@how_to_play_common.paragraph_with_icons": {
+          "$text": "howtoplay.rule.text.19"
         }
       }
     ]

@@ -4,9 +4,38 @@ resourcepack.splaturn3guide.name=Splaturn3ガイドリソースパック
 splaturn.weapon.splash=振り撒き
 splaturn.weapon.roll=塗り進み
 
-howtoplay.category.basics=基本情報
+howtoplay.category.splaturn=基本情報
 howtoplay.category.weapon=各ブキでの塗り方
 howtoplay.category.battlerule=バトルルール
+
+
+howtoplay.rule=ルール
+howtoplay.rule.title=遊び方 > ルール
+howtoplay.rule.header.1=禁止行為
+howtoplay.rule.text.1=1.他のユーザーに対しての誹謗中傷、及び周囲に迷惑をかける行為
+howtoplay.rule.text.2=2.他サービスやゲームに誘導する行為
+howtoplay.rule.text.3=3.ゲームバランスを著しく損なう可能性のある外部ツールあるいはスキン(チート、MOD、4Dスキン、ヒットボックスの判定が分かりにくいスキン)の使用
+howtoplay.rule.text.4=4.当サーバー内の状況や様子などを無許可でインターネット上に共有する行為(ただし、事前に定められた方法で撮影の許可を得ている場合はこの限りではありません。)
+howtoplay.rule.text.5=5.公序良俗に反する行為
+howtoplay.rule.text.6=6.当サーバーに接続するための情報の無断転載
+howtoplay.rule.text.7=7.当サービスに対して、過剰な負荷を与える行為
+howtoplay.rule.text.8=8.試合を意図的に放棄したとみられる行為
+howtoplay.rule.text.9=9.サブ垢等を使用してのLv,pt稼ぎと見受けられる行為
+howtoplay.rule.text.10=10.通常侵入不可能なフィールドの穴に侵入する行為
+howtoplay.rule.text.11=11.管理者及び運営者が不適切と判断する行為
+howtoplay.rule.text.12=上記の禁止行為が確認された場合警告及びBanの対処を致します。
+howtoplay.rule.header.2=使用禁止のスキン
+howtoplay.rule.text.13=全身の半分以上が透明であるスキン
+howtoplay.rule.text.14=プレイヤーの形をしていないスキン
+howtoplay.rule.text.15=身長が2マスに満たないスキン
+howtoplay.rule.text.16=そのほか運営が不適切だと判断したスキン
+howtoplay.rule.header.3=使用禁止のテクスチャ
+howtoplay.rule.text.17=ブロック等を透過するテクスチャ
+howtoplay.rule.text.18=プレイヤーのヒットボックスを表示するテクスチャ
+howtoplay.rule.text.19=そのほか運営が不適切だと判断したテクスチャ
+
+howtoplay.movie=動画の投稿をしたい人へ
+howtoplay.movie.title=遊び方 > 動画投稿
 
 howtoplay.weapon.brush=フデ
 howtoplay.weapon.brush.title=遊び方 > ブキ > フデ
