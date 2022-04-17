@@ -74,10 +74,10 @@ howtoplay.weapon.spinner.title=遊び方 > ブキ > スピナー
 howtoplay.weapon.spinner.text.1=スピナーはインクをチャージした後に連続で発射するブキです。
 howtoplay.weapon.spinner.header.1=チャージ
 howtoplay.weapon.spinner.text.2.touch=ブキを持ってタップ(長押し)をするとチャージを開始できます。
-howtoplay.weapon.spinner.text.2.noTouch=ブキを持って :_input_key.use: でチャージを開始できます。
+howtoplay.weapon.spinner.text.2.notTouch=ブキを持って :_input_key.use: でチャージを開始できます。
 howtoplay.weapon.spinner.header.2=発射
 howtoplay.weapon.spinner.text.3.touch=塗り方: チャージが完了すると発射できます。チャージ中にタップ(長押し)をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
-howtoplay.weapon.spinner.text.3.noTouch=塗り方: チャージが完了すると発射できます。チャージ中に :_input_key.use: をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
+howtoplay.weapon.spinner.text.3.notTouch=塗り方: チャージが完了すると発射できます。チャージ中に :_input_key.use: をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
 
 howtoplay.weapon.slosher=スロッシャー
 howtoplay.weapon.slosher.title=遊び方 > ブキ > スロッシャー
