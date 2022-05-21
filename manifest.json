@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
+		"name": "Splaturn Guide",
+		"description": "Guide Resource Pack for Splaturn 3.0",
 		"uuid": "a5ac39ee-8e9a-4a10-ac61-66301f450ecd",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 0]
