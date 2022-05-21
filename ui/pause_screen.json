@@ -1,0 +1,60 @@
+{
+  "namespace": "pause",
+
+  "menu_background@pause.transparent_background": {
+    "size": [ "100% - 2px", "100%c + 8px" ],
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "controls": [
+      {
+        "button_panel": {
+          "type": "stack_panel",
+          "size": [ "100% - 8px", "100%c" ],
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "controls": [
+            { "return_to_game_button@pause.return_to_game_button": {} },
+            { "return@pause.vertical_padding": {} },
+            { "settings_button@pause.settings_button": {} },
+            { "settings@pause.vertical_padding": {} },
+            { "splaturn_how_to_play_button@pause.splaturn_how_to_play_button": {} },
+            { "how_to_play@pause.vertical_padding": {} },
+            { "buy_button@pause.buy_button": {} },
+            {
+              "buy@pause.vertical_padding": {
+                "bindings": [
+                  {
+                    "binding_name": "#is_trial_version",
+                    "binding_name_override": "#visible",
+                    "binding_type": "global"
+                  }
+                ]
+              }
+            },
+            { "store_button_panel@pause.store_button_panel": {} },
+            {
+              "server@pause.vertical_padding": {
+                "bindings": [
+                  {
+                    "binding_name": "#store_button_visible",
+                    "binding_name_override": "#visible",
+                    "binding_type": "global"
+                  }
+                ]
+              }
+            },
+            { "quit_button@pause.quit_button": {} }
+          ]
+        }
+      }
+    ]
+  },
+
+  "splaturn_how_to_play_button@pause.pause_button_template": {
+    "$pressed_button_name": "button.menu_how_to_play",
+    "$button_text": "menu.howToPlay",
+    "anchor_to": "top_middle",
+    "anchor_from": "top_middle",
+    "$focus_override_right": "change_skin_button"
+  }
+}
