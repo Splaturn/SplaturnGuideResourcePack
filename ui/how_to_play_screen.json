@@ -9,7 +9,6 @@
     "$is_full_screen_layout": true,
     "$fill_alpha": 1.0
   },
-
   "selector_stack_panel": {
     "type": "stack_panel",
     "anchor_from": "top_left",
@@ -48,6 +47,11 @@
               }
             }
           ]
+        }
+      },
+      {
+        "language_section@general_section.language_section": {
+          "visible": true
         }
       }
     ]
@@ -162,33 +166,28 @@
         }
       },
       {
-        "paragraph_12@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.12"
-        }
-      },
-      {
         "header_2@how_to_play_common.header": {
           "$text": "howtoplay.rule.header.2"
         }
       },
       {
         "paragraph_13@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.13"
+          "$text": "howtoplay.rule.text.12"
         }
       },
       {
         "paragraph_14@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.14"
+          "$text": "howtoplay.rule.text.13"
         }
       },
       {
         "paragraph_15@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.15"
+          "$text": "howtoplay.rule.text.14"
         }
       },
       {
         "paragraph_16@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.16"
+          "$text": "howtoplay.rule.text.15"
         }
       },
       {
@@ -198,17 +197,17 @@
       },
       {
         "paragraph_17@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.17"
+          "$text": "howtoplay.rule.text.16"
         }
       },
       {
         "paragraph_18@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.18"
+          "$text": "howtoplay.rule.text.17"
         }
       },
       {
         "paragraph_19@how_to_play_common.paragraph_with_icons": {
-          "$text": "howtoplay.rule.text.19"
+          "$text": "howtoplay.rule.text.18"
         }
       }
     ]
