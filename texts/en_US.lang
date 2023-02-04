@@ -43,10 +43,10 @@ howtoplay.basicaction.text.4=この状態だとほかの人から見れなくな
 
 howtoplay.movie=動画の投稿・配信をしたい人へ
 howtoplay.movie.title=遊び方 > 動画投稿・配信
-howtoplay.movie.header.1=動画投稿・配信許可
-howtoplay.movie.text.1=動画投稿には動画投稿許可が必要です。動画投稿許可の申請は @kirbymicra1204 (かーびぃ)  へのDiscordのDMでお願いします。
-howtoplay.movie.text.2=詳しくはSplaturnのDiscordサーバーの #[必読]参加方法・ルール をご確認ください。
-howtoplay.movie.text.3=動画投稿許可が承諾された方には灰色の★が付きます。 この灰色の★が付いていない状態では動画を投稿することは出来ません。
+howtoplay.movie.header.1=動画投稿・配信
+howtoplay.movie.text.1=動画投稿には動画投稿許可をとる必要はなくなりました！これからは誰でも動画投稿ができるようになります。
+howtoplay.movie.text.2=ただしサーバーに接続するためのアドレスやポートは載せてはいけないのはルールの通りです。
+howtoplay.movie.text.3=説明欄にとぁーんサーバーのdiscordコミュニティや公式ウェブサイトのリンクを載せてもらえると嬉しいです。
 
 howtoplay.battlerule.regular=レギュラーマッチ(GS1)
 howtoplay.battlerule.regular.title=遊び方 > レギュラーマッチ(GS1)
