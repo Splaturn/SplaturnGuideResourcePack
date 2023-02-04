@@ -1,0 +1,122 @@
+resourcepack.splaturn3guide.name=Splaturn3 Guide ResourcePack
+
+splaturn.weapon.splash=Splash
+splaturn.weapon.roll=Roll
+
+howtoplay.category.splaturn=Basics
+howtoplay.category.battlerule=Game Modes
+howtoplay.category.weapon=Weapons
+
+
+howtoplay.rule=Rule
+howtoplay.rule.title=How To Play > Rule
+howtoplay.rule.header.1=Rule
+howtoplay.rule.text.1=1.DO NOT harass, insult or troll users.
+howtoplay.rule.text.2=2.DO NOT advertise other services or games.
+howtoplay.rule.text.3=3.DO NOT use any skins and tools like modification, macro or scripting that give unfair advantages.
+howtoplay.rule.text.4=4.DO NOT violate public order and morality.
+howtoplay.rule.text.5=5.DO NOT share information for connecting server in public.
+howtoplay.rule.text.6=6.DO NOT overload server.
+howtoplay.rule.text.7=7.DO NOT abandon match intentionally.
+howtoplay.rule.text.8=8.DO NOT multiple accounts to get exp or points abusively.
+howtoplay.rule.text.9=9.DO NOT go to areas by using glitches where cannot be entered.
+howtoplay.rule.text.10=10.DO NOT other behavior prohibited by administors.
+howtoplay.rule.text.11=Player found breaking these rules can expect a warning or a suspension of access to the Splaturn Server and Discord. 
+howtoplay.rule.header.2=Skin that is NOT allowed
+howtoplay.rule.text.12=Skins that half of the body is invisible.
+howtoplay.rule.text.13=Skins that heigh less than 2 meters.
+howtoplay.rule.text.14=Skins that is not humanoid.
+howtoplay.rule.text.15=Other skins prohibited by administors.
+howtoplay.rule.header.3=Skin that is NOT allowed
+howtoplay.rule.text.16=Textures that has transparent blocks.
+howtoplay.rule.text.17=Textures that shows hit boxes.
+howtoplay.rule.text.18=Other textures prohibited by administors.
+
+howtoplay.basicaction=基本操作
+howtoplay.basicaction.title=遊び方 > 基本操作
+howtoplay.basicaction.header.1=塗り方
+howtoplay.basicaction.text.1=フデ・ローラーブキでは塗り方はタッチ操作だと長押し・短押し、キーボード操作では右クリック左クリックで2種類の塗りが使えます。
+howtoplay.basicaction.text.2=そのほかの塗り方・特徴は「各ブキでの塗り方」で確認できます。
+howtoplay.basicaction.header.2=インクの回復
+howtoplay.basicaction.text.3=何も持たずに自分のチームのインクの上に乗るとインクが回復できます(イカモード)。
+howtoplay.basicaction.text.4=この状態だとほかの人から見れなくなります。
+
+howtoplay.movie=動画の投稿・配信をしたい人へ
+howtoplay.movie.title=遊び方 > 動画投稿・配信
+howtoplay.movie.header.1=動画投稿・配信許可
+howtoplay.movie.text.1=動画投稿には動画投稿許可が必要です。動画投稿許可の申請は @kirbymicra1204 (かーびぃ)  へのDiscordのDMでお願いします。
+howtoplay.movie.text.2=詳しくはSplaturnのDiscordサーバーの #[必読]参加方法・ルール をご確認ください。
+howtoplay.movie.text.3=動画投稿許可が承諾された方には灰色の★が付きます。 この灰色の★が付いていない状態では動画を投稿することは出来ません。
+
+howtoplay.battlerule.regular=レギュラーマッチ(GS1)
+howtoplay.battlerule.regular.title=遊び方 > レギュラーマッチ(GS1)
+howtoplay.battlerule.regular.header.1=ルール
+howtoplay.battlerule.regular.text.1=より塗りを広げた方のチームが勝ち！相手を倒しながらも陣地を広げるでゲソ。
+howtoplay.battlerule.regular.text.2=サブウェポンを巧みに使って広範囲を塗って勝利を目指せ！
+
+howtoplay.battlerule.ranked.splatzone=ガチマッチ(GS1)
+howtoplay.battlerule.ranked.splatzone.title=遊び方 > ガチマッチ(GS1)
+howtoplay.battlerule.ranked.splatzone.header.1=ルール
+howtoplay.battlerule.ranked.splatzone.text.1=エリアを確保してカウントをより進めたチームが勝ち！エリアを長時間維持してカウントを多く進めるでゲソ。
+howtoplay.battlerule.ranked.splatzone.text.2=カウントストップされるとペナルティーが与えられる。負けているチームもエリアを奪って逆転を目指せ！
+howtoplay.battlerule.ranked.splatzone.text.3=レギュラーマッチよりもレベルの高い戦いが繰り広げられる。レギュラーマッチでウデを磨いてから心して臨むべし。
+
+
+howtoplay.weapon.brush=Brush
+howtoplay.weapon.brush.title=How To Play > Weapon > Brush
+howtoplay.weapon.brush.header.1=Splash	# splash(右クリ)のこと
+howtoplay.weapon.brush.text.1=Only way in brush to attack opponents. This can paint widely but ink consumption is large. Attack rate is different between each weapon.
+howtoplay.weapon.brush.text.2.notTouch=How to paint: Having a weapon and :_input_key.use: to block.
+howtoplay.weapon.brush.text.2.touch=How to paint: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.brush.header.2=塗り進み	# roll(左クリ)のこと
+howtoplay.weapon.brush.text.3=攻撃ができない塗り方です。塗り範囲が狭い代わりにインク消費量が少ないです。
+howtoplay.weapon.brush.text.4.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.attack: を長押し
+howtoplay.weapon.brush.text.4.touch=塗り方: ブキを持った状態でブロックに向かって長押し
+
+howtoplay.weapon.roller=ローラー
+howtoplay.weapon.roller.title=遊び方 > ブキ > ローラー
+howtoplay.weapon.roller.header.1=振り撒き	# splash(右クリ)のこと
+howtoplay.weapon.roller.text.1=インク消費量は多いですが広範囲を塗ることができます。ブキによって攻撃間隔に差があります。
+howtoplay.weapon.roller.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.roller.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
+howtoplay.weapon.roller.header.2=塗り進み	# roll(左クリ)のこと
+howtoplay.weapon.roller.text.3=塗り範囲は振り撒きに比べると狭いです。近距離の攻撃に利用できます。
+howtoplay.weapon.roller.text.4.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.attack: を長押し
+howtoplay.weapon.roller.text.4.touch=塗り方: ブキを持った状態でブロックに向かって長押し
+
+howtoplay.weapon.shooter=シューター
+howtoplay.weapon.shooter.title=遊び方 > ブキ > シューター
+howtoplay.weapon.shooter.text.1=シューターはチャージなしでインクを発射できるブキです。ブキによってブレ・射撃速度が異なります。
+howtoplay.weapon.shooter.header.1=射撃
+howtoplay.weapon.shooter.text.2=塗り方: ブキを持つだけで前に向かってインクが発射されます
+
+howtoplay.weapon.spinner=スピナー
+howtoplay.weapon.spinner.title=遊び方 > ブキ > スピナー
+howtoplay.weapon.spinner.text.1=スピナーはインクをチャージした後に連続で発射するブキです。
+howtoplay.weapon.spinner.header.1=チャージ
+howtoplay.weapon.spinner.text.2.touch=ブキを持ってタップ(長押し)をするとチャージを開始できます。
+howtoplay.weapon.spinner.text.2.notTouch=ブキを持って :_input_key.use: でチャージを開始できます。
+howtoplay.weapon.spinner.header.2=発射
+howtoplay.weapon.spinner.text.3.touch=塗り方: チャージが完了すると発射できます。チャージ中にタップ(長押し)をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
+howtoplay.weapon.spinner.text.3.notTouch=塗り方: チャージが完了すると発射できます。チャージ中に :_input_key.use: をしても発射できますが、フルチャージよりも射程・継続時間は短くなります。
+
+howtoplay.weapon.slosher=スロッシャー
+howtoplay.weapon.slosher.title=遊び方 > ブキ > スロッシャー
+howtoplay.weapon.slosher.text.1=スロッシャーはインクを前方にまくことができるブキです。
+howtoplay.weapon.slosher.header.1=塗り
+howtoplay.weapon.slosher.text.2.touch=塗り方: ブキを持った状態でブロックをタップ(短押し)
+howtoplay.weapon.slosher.text.2.notTouch=塗り方: ブキを持った状態でブロックに向かって :_input_key.use:
+
+howtoplay.weapon.blaster=ブラスター
+howtoplay.weapon.blaster.title=遊び方 > ブキ > ブラスタ―
+howtoplay.weapon.blaster.text.1=ブラスターは爆散するインクを前方に発射することができるブキです。一撃を比較すると塗り・攻撃ともにシューターよりも広範囲になっています。
+howtoplay.weapon.blaster.text.2=直撃時には❤9個分のダメージを与えられます。
+howtoplay.weapon.blaster.header.1=発射
+howtoplay.weapon.blaster.text.3=塗り方: ブキを持つだけで前に向かってインクが発射されます。
+
+howtoplay.weapon.charger=チャージャー
+howtoplay.weapon.charger.title=遊び方 > ブキ > チャージャー
+howtoplay.weapon.charger.text.1=チャージャーは縦方向に細長く塗ることができるブキです。一発の攻撃力が高いため、チャージの量にもよりますが当たれば一撃で倒すこともできます(リッター系をのぞく)。
+howtoplay.weapon.charger.text.2=ただし攻撃判定は頭にしかありません。
+howtoplay.weapon.charger.header.1=発射
+howtoplay.weapon.charger.text.3=弓の引きでチャージ、離すと発射されます。引きの時間でチャージの量が変わります。
