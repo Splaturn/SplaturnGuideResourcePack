@@ -48,11 +48,6 @@
             }
           ]
         }
-      },
-      {
-        "language_section@general_section.language_section": {
-          "visible": true
-        }
       }
     ]
   },
